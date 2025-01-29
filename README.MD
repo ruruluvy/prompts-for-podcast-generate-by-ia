@@ -49,5 +49,5 @@ A conversa flui naturalmente, mas no final os ouvintes descobrem que as vozes pe
 ## 📚 **Materiais**
 
 🔗 [Link do Podcast](https://open.spotify.com/episode/43GD3uNHFgvwUOaFun7XeP?si=FtINKFJXRCOJqXdLNGc9hQ) 
-📸 [Capa do Podcast](edit)
-🎛️ [Áudio editado](edit) 
+📸 [Capa do Podcast](https://github.com/ruruluvy/prompts-for-podcast-generate-by-ia/blob/main/LOGO%20PODCAST%20v2.png )
+🎛️ [Áudio editado](https://github.com/ruruluvy/prompts-for-podcast-generate-by-ia/blob/main/PodCast%20DIO%20-%20Ana%20e%20Lucas%20v3.mp3) 
