@@ -29,8 +29,10 @@ A conversa flui naturalmente, mas no final os ouvintes descobrem que as vozes pe
 
 - **ChatGPT** – Para criação do roteiro  
 - **ElevenLabs** – Para geração de voz realista  
-- **MidJourney** – Para criação da capa  
-- **Capcut** – Para edição de áudio e adição de efeitos sonoros  
+- **SeaArt.ai** – Para criação da arte da capa
+- **Canva** – Para criação da capa  
+- **Audio Joiner** – Para edição de áudio  
+- **Spotify** – Para a publicação do podcast
 
 ---
 
@@ -38,14 +40,14 @@ A conversa flui naturalmente, mas no final os ouvintes descobrem que as vozes pe
 
 1. **Roteiro gerado via ChatGPT**, estruturando uma conversa fluida e envolvente.  
 2. **Áudio gerado pela ElevenLabs**, com vozes naturais e expressivas.  
-3. **Capa criada no MidJourney**, garantindo uma identidade visual atraente.  
-4. **Edição no Capcut**, incluindo ajustes no áudio e efeitos sonoros para tornar a experiência mais imersiva.  
-5. **Revelação final**, onde os ouvintes descobrem que as vozes do podcast foram geradas por IA.  
+3. **Capa criada no Canva com suporte do SeaArt.ai**, garantindo uma identidade visual atraente.  
+4. **Edição no Audio Joiner**, incluindo ajustes no áudio e efeitos sonoros para tornar a experiência mais imersiva.  
+5. **Publicação no Spotify**, permitindo que o episódio esteja acessível para todos os ouvintes interessados em tecnologia e inovação.
 
 ---
 
 ## 📚 **Materiais**
 
-🔗 Link da live no Youtube  
-📄 Notion Template  
-🎛️ Editor de áudio  
+🔗 [Link do Podcast](https://open.spotify.com/episode/43GD3uNHFgvwUOaFun7XeP?si=FtINKFJXRCOJqXdLNGc9hQ) 
+📸 [Capa do Podcast](edit)
+🎛️ [Áudio editado](edit) 
