@@ -11,7 +11,7 @@
 # **Projeto Podcast Gerado por I.A.s**
 
 ℹ️ **Sobre o Projeto**  
-Este repositório foi desenvolvido como parte de um projeto em parceria com a DIO, explorando o uso de Inteligência Artificial para criação de conteúdo. Nosso objetivo é demonstrar como ferramentas de IA podem ser utilizadas para gerar um podcast completo, desde o roteiro até a edição final.
+Este repositório foi desenvolvido como parte de um projeto em parceria com a DIO, explorando o uso de Inteligência Artificial para criação de conteúdo. O objetivo é demonstrar como ferramentas de IA podem ser utilizadas para gerar um podcast completo, desde o roteiro até a edição final.
 
 Aqui, utilizamos uma abordagem inovadora para criar um episódio onde duas vozes aparentemente humanas debatem sobre o impacto da IA na sociedade. No entanto, há um detalhe surpreendente: **elas não são humanas!** Essa revelação no final do episódio levanta reflexões sobre o avanço e as implicações dessa tecnologia.
 
